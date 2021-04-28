@@ -1,3 +1,5 @@
+Frontend code for review / essays / news writing app i am working on.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
